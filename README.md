@@ -8,3 +8,5 @@ $cat dislikes.txt
 $cat since.txt  
 **Linux developer since 2022**  
 **Game(Minecraft ⛏ ) server owner since 2022**  
+$cat links.txt  
+**Discord: **
