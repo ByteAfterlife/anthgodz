@@ -8,7 +8,7 @@ $cat dislikes.txt
 **Hiccups (who doesn't hate them)**  
 $cat since.txt  
 **Linux developer since 2022**  
-**Game(Minecraft ⛏ ) server owner since 2022**  
+**Game(Minecraft ⛏ ) server owner since 2021**  
 $cat links.txt  
 **Discord: https://discord.com/users/844302146161213480**  
 **Youtube(I don't post videos, just have a channel): https://youtube.com/@anthgodz**
