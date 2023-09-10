@@ -1,4 +1,4 @@
-$cat moraboutme.txt  
+$cat moreaboutme.txt  
 **https://en.pronouns.page/@anthgodz**  
 $cat likes.txt  
 😄  
