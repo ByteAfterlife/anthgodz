@@ -14,3 +14,4 @@ $cat since.txt
 $cat links.txt  
 **Discord: https://discord.com/users/844302146161213480**  
 **Youtube(I don't post videos, just have a channel): https://youtube.com/@anthgodz**
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthgodz&theme=algolia">
