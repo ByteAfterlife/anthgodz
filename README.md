@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=4000&pause=1000&background=FFB4095D&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello+there%2C+I'm+Anth;I+make+stuff+usually+in+Skript;Skript+is+a+plugin+for+minecraft" alt="Typing SVG" /></a>
 $cat moreaboutme.txt  
 **https://en.pronouns.page/@anthgodz**  
 $cat likes.txt  
