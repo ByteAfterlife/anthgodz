@@ -17,3 +17,4 @@ $cat links.txt
 **Discord: https://discord.com/users/844302146161213480**  
 **Youtube(I don't post videos, just have a channel): https://youtube.com/@anthgodz**
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anthgodz&theme=algolia">
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thats%20all&textBg=false&strokeWidth=0&desc=You%20actually%20wasted%20time%20reading%20this%20small%20text?&fontAlign=50&fontAlignY=48&descSize=1&section=footer&reversal=false&descAlignY=68">
