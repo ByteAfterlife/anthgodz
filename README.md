@@ -3,6 +3,7 @@
 $cat moreaboutme.txt  
 **https://en.pronouns.page/@anthgodz**<br>
 **https://anthgodz.vercel.app**<br>
+**https://beacons.ai/anthgodz**<br>
 $cat likes.txt  
 😄  
 **Linux (Mint and Ubuntu), Minecraft**  
