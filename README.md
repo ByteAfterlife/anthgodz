@@ -1,7 +1,8 @@
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:38A5B6,100:a82da8&text=anthgodz&textBg=false&strokeWidth=0&desc=I%20make%20stuff%20sometimes&fontAlign=50&fontAlignY=30&descSize=21&section=header&reversal=false" alt="Typing SVG" /></a>
 <br>
 $cat moreaboutme.txt  
-**https://en.pronouns.page/@anthgodz**  
+**https://en.pronouns.page/@anthgodz**
+**https://anthgodz.vercel.app**
 $cat likes.txt  
 😄  
 **Linux (Mint and Ubuntu), Minecraft**  
